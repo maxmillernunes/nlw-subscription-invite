@@ -184,7 +184,7 @@ Contribuições são muito bem-vindas! Para contribuir:
 Desenvolvido por **Maxmiller Nunes** durante a [Next Level Week](https://nextlevelweek.com/) da Rocketseat.
 
 - Email: maxmillernunes11@gmail.com
-- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/maxmillernunes/)
+- LinkedIn: [linkedin.com/in/maxmillernunes](https://linkedin.com/in/maxmillernunes/)
 
 ---
 
